@@ -1,7 +1,7 @@
 # Escuela Politécnica Nacional  
 ## Escuela de Formación de Tecnólogos - ESFOT  
 
-# ANÁLISIS DE DATOS (TDSD353)  
+# Análisis de Datos (TDSD353)  
 ## Notebooks - Pandas  
 
 ### Información Académica
@@ -11,14 +11,10 @@
 - **Período Académico:** 2026-A  
 - **Actividad:** Deber 4  
 
----
-
 ## Descripción
 
 Repositorio académico orientado al análisis de datos con Python mediante Jupyter Notebooks.  
 Contiene ejercicios prácticos enfocados en el uso de Pandas para la manipulación, transformación, concatenación de datos y análisis de texto.
-
----
 
 ## Contenido del Repositorio
 
@@ -31,8 +27,6 @@ Contiene ejercicios prácticos enfocados en el uso de Pandas para la manipulaci�
 - Concatenación de datos  
 - Análisis de texto  
 
----
-
 ## Herramientas Utilizadas
 
 - Python  
@@ -40,16 +34,10 @@ Contiene ejercicios prácticos enfocados en el uso de Pandas para la manipulaci�
 - Pandas  
 - NumPy  
 
----
-
 ## Objetivo
 
 Aplicar conceptos fundamentales de análisis de datos utilizando herramientas de Python para el procesamiento y organización eficiente de información.
 
----
-
 ## Estudiante
 
 **Melva Suárez**
-
----
