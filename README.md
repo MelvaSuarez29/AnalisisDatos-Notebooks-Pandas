@@ -1,35 +1,55 @@
-# Escuela Politecnica Nacional
-## Escuela de Formación de Tecnólogos ESFOT
+# Escuela Politécnica Nacional  
+## Escuela de Formación de Tecnólogos - ESFOT  
 
-# ANALISIS DE DATOS (TDSD353)
-## Notebooks-Pandas
+# ANÁLISIS DE DATOS (TDSD353)  
+## Notebooks - Pandas  
 
-###### ASIGNATURA:	Análisis de Datos
-###### PROFESOR:	Ing. Juan Carlos Gonzalez MSc.
-###### PERÍODO ACADÉMICO:	2026-A
-## DEBER 4
+### Información Académica
 
-## Descripción  
-  
+- **Asignatura:** Análisis de Datos  
+- **Profesor:** Ing. Juan Carlos González MSc.  
+- **Período Académico:** 2026-A  
+- **Actividad:** Deber 4  
 
- - Repositorio  enfocado en el análisis de datos con Python mediante Jupyter Notebooks. 
- - Incluye ejercicios prácticos de introducción a Pandas, manipulación de datos, concatenación de datasets y análisis de texto.  
-  
----  
-## Contenido del Repositorio  
-  
-### Parte 1  
+---
+
+## Descripción
+
+Repositorio académico orientado al análisis de datos con Python mediante Jupyter Notebooks.  
+Contiene ejercicios prácticos enfocados en el uso de Pandas para la manipulación, transformación, concatenación de datos y análisis de texto.
+
+---
+
+## Contenido del Repositorio
+
+### Parte 1
 - Introducción a Pandas  
 - Manipulación de datos  
 - Ejercicios prácticos  
-  
-### Parte 2  
+
+### Parte 2
 - Concatenación de datos  
 - Análisis de texto  
----  
-## Herramientas Utilizadas  
-  
+
+---
+
+## Herramientas Utilizadas
+
 - Python  
 - Jupyter Notebook  
 - Pandas  
-- NumPy
+- NumPy  
+
+---
+
+## Objetivo
+
+Aplicar conceptos fundamentales de análisis de datos utilizando herramientas de Python para el procesamiento y organización eficiente de información.
+
+---
+
+## Estudiante
+
+**Melva Suárez**
+
+---
