@@ -1,6 +1,6 @@
 # Escuela Politécnica Nacional  
 
-# Análisis de Datos (TDSD353)  
+# Análisis de Datos
 ## Notebooks - Pandas  
 
 ### Información Académica
