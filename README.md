@@ -1,6 +1,4 @@
 # Escuela Politécnica Nacional  
-
-# Análisis de Datos
 ## Notebooks - Pandas  
 
 ### Información Académica
